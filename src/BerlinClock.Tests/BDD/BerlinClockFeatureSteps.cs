@@ -1,4 +1,4 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using NUnit.Framework;
 using TechTalk.SpecFlow;
 
 namespace BerlinClock.Tests.BDD
@@ -19,8 +19,7 @@ namespace BerlinClock.Tests.BDD
         [Then(@"the clock should look like")]
         public void ThenTheClockShouldLookLike(string theExpectedBerlinClockOutput)
         {
-            Assert.AreEqual(_berlinClock.ConvertTime(_theTime), theExpectedBerlinClockOutput);
+            Assert.That(_berlinClock.ConvertTime(_theTime), Is.EqualTo(theExpectedBerlinClockOutput));
         }
-
     }
 }

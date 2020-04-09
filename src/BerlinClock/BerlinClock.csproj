@@ -39,6 +39,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClrTypesExtensions.cs" />
     <Compile Include="Domain\BerlinClock.cs" />
     <Compile Include="Domain\HoursColor.cs" />
     <Compile Include="Domain\MinutesColor.cs" />
