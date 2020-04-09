@@ -1,6 +1,5 @@
 # Result
-
-![Image of Result](./application/Result.png){:height="50%" width="50%"}
+<img src="./application/Result.png" width="50%" height="50%">
 
 # The Berlin Clock
 
