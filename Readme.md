@@ -1,3 +1,7 @@
+# Result
+
+![Image of Result](.\application\Result.png)
+
 # The Berlin Clock
 
 The Berlin Uhr (Clock) is a rather strange way to show the time. On the top of the clock there is a yellow lamp that
