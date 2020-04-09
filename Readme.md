@@ -1,5 +1,5 @@
 # Result
-<img src="./application/Result.png" width="50%" height="50%">
+<img src="./application/Result.png" width="30%" height="30%">
 
 # The Berlin Clock
 
