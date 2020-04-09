@@ -1,6 +1,6 @@
 # Result
 
-![Image of Result](.\application\Result.png)
+![Image of Result](./application/Result.png)
 
 # The Berlin Clock
 
