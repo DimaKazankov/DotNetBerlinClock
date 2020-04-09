@@ -1,6 +1,6 @@
 # Result
 
-![Image of Result](./application/Result.png =100x120)
+![Image of Result](./application/Result.png){:height="50%" width="50%"}
 
 # The Berlin Clock
 
